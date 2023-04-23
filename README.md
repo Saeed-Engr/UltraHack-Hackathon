@@ -13,7 +13,7 @@ Upon receiving notifications, the controller's system will generate an automatic
 
 The Oak D camera will also capture images of every person passing through the entrance point, and the system will generate emails with relevant pictures for record-keeping purposes.
 
-#Key Features:
+# Key Features:
 
 Integration with wearable safety gear: The SSMS will work in conjunction with wearable safety gear, such as helmets, gloves, and vests, to ensure employee safety and adherence to protocols.
 Real-time monitoring and data collection: The Oak D camera will provide continuous monitoring of employees, capturing images and data on their activities, attendance, and compliance with safety protocols.
