@@ -1,3 +1,2 @@
-#Instant Workplace Safety Compliance Monitoring and Alert System
-The Smart Safety Management System (SSMS) is an innovative solution that boosts safety, accountability, and efficiency in manufacturing through real-time monitoring, wearable safety gear, and automated personnel management.
+# Smart Safety Management System (SSMS): Enhancing Manufacturing Safety, Accountability, and Efficiency through Real-time Monitoring and Personnel Management.
 The Real Time demo Video: https://youtu.be/jLMOtBa9NDs
